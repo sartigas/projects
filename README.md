@@ -14,6 +14,6 @@
 </tr>
 </table>
 
-## [MIT License](https://github.com/sartigas/projects/blob/master/LICENSE)
+## [License](https://github.com/sartigas/projects/blob/master/LICENSE)
 
 [Sergio Artigas](https://github.com/sartigas)
