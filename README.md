@@ -1,4 +1,4 @@
-# ![SA](https://github.com/sartigas/Source/raw/master/media/bincode.jpg)
+# ![SA](https://github.com/sartigas/projects/raw/master/media/bincode.jpg)
 # Sergio Artigas' professional experience repo
 <table>
 <tr>
